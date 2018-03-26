@@ -1,0 +1,61 @@
+Print Volume: cylindrical, D: 170mm , H:200mm 
+
+Chassis: laser -cut acrylic plate
+
+The Layer Thickness: 0.1mm
+
+Layer Resolution: 0.1mm
+
+Filament Diameter: 1.75mm
+
+Nozzle Diameter: 0.4mm
+
+Print Speed:  60 to 120 mm/sec
+
+Print Plate Size: 210 x 3mm
+
+Print Plate (Build Platform): aluminum plate + heatbed
+
+XYZ Bearings: carbon steel
+
+Stepper Motors: 1.8° step angle with 1/16 micro-stepping
+
+Max Heated Bed Temp: about 110 ℃
+
+Max Extruder Temp: about 240 ℃
+
+AC Input: 115V/2.2A or 230V/1.1A
+
+Output：DC12V/20A
+
+No. of Extruders: 2 
+
+Connectivity (Interface): USB, SD Card
+
+Electronics: GT2560
+
+3D printing Software: Easy Print,Repetier Host
+
+CAD Input data file format supported: STL, G code 
+
+Client Operating System: Windows, Linux, Mac
+
+Machine Dimensions: 320 x 320 x 870mm
+
+Machine weight:10kg  
+
+Shipping box dimensions:495*395*195mm
+
+Shipping box weight:11kg
+
+//#######MIS ESPECIFICACIONES #########
+//Las medidas están en [mm]
+
+DELTA_DIAGONAL_ROD=200
+//DELTA_CARRIADGE_OFFSET+DELTA_RADIUS=122
+DELTA_CARRIADGE_OFFSET=32
+DELTA_RADIUS=90
+DELTA_EFFECTOR_OFFSET=36.5
+//DELTA_SMOOTH-ROD_OFFSET=DELTA_CARRIADGE_OFFSET+DELTA_RADIUS+DELTA_EFFECTOR_OFFSET=158.5
+DELTA_SMOOTH-ROD_OFFSET=158.5
+

@@ -1,0 +1,4 @@
+
+Para la impresora Anet se redujo el diametro de impresion a 9.5cm
+Para la impresra Rostock G2s la altura es de 200-10.2mm=189.8mm en total
+https://github.com/phil-hx/Marlin.git

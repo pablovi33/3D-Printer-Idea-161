@@ -1,0 +1,3 @@
+//######VARIABLES EXTRA EN CONFIGURACION DE G2S#########
+
+#define FAN_PIN            7
