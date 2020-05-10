@@ -1,0 +1,3 @@
+TronXY X5S Marlin 1.1.8 Firmware (https://www.thingiverse.com/thing:2738690) by The_Wizard is licensed under the GNU - GPL license.
+http://creativecommons.org/licenses/GPL/2.0/
+
